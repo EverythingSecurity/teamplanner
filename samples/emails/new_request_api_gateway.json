@@ -1,0 +1,14 @@
+{
+  "message_id": "AAMk-sample-001",
+  "internet_message_id": "<sample-001@contoso.com>",
+  "conversation_id": "conv-sample-001",
+  "received_at": "2026-09-18T09:30:00Z",
+  "sender_name": "Priya Nair",
+  "sender_email": "priya.nair@contoso.com",
+  "to": ["cis-planning@contoso.com"],
+  "cc": [],
+  "subject": "Security review for Customer Portal API gateway on Azure",
+  "body": "Hi CIS team,\n\nWe are launching the Customer Portal (Retail Banking BU) on 30 October. It exposes REST APIs to the internet through Azure API Management and authenticates with Entra ID B2C. Customer PII is stored in Azure SQL. Could you please review the architecture and API design before go-live?\n\nThanks,\nPriya",
+  "attachments": [{"name": "portal-architecture-v3.pdf", "content_type": "application/pdf", "size": 482113}],
+  "importance": "high"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "architect_id": "A001",
+    "name": "Example Architect One",
+    "email": "architect.one@contoso.com",
+    "primary_skills": ["Cloud Security", "API Security", "DevSecOps"],
+    "secondary_skills": ["Application Security", "Identity and Access Management"],
+    "availability": "AVAILABLE",
+    "maximum_capacity": 6,
+    "enabled": true
+  },
+  {
+    "architect_id": "A002",
+    "name": "Example Architect Two",
+    "email": "architect.two@contoso.com",
+    "primary_skills": ["Network Security", "Firewall and Connectivity", "Infrastructure Security"],
+    "secondary_skills": ["Cloud Security"],
+    "availability": "AVAILABLE",
+    "maximum_capacity": 5,
+    "enabled": true
+  }
+]

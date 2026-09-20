@@ -1,0 +1,12 @@
+{
+  "message_id": "AAMk-sample-002",
+  "internet_message_id": "<sample-002@contoso.com>",
+  "conversation_id": "conv-sample-002",
+  "received_at": "2026-09-18T10:05:00Z",
+  "sender_name": "Tom Reed",
+  "sender_email": "tom.reed@contoso.com",
+  "to": ["cis-planning@contoso.com"],
+  "subject": "Need security sign off",
+  "body": "We need security sign off on our new thing asap.",
+  "attachments": []
+}
